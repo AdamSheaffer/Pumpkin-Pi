@@ -1,0 +1,1 @@
+const { onGameStateUpdate } = require('./managers/gameManager');
