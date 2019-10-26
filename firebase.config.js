@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   apiKey: "AIzaSyCSJk-rN0DxhzK0bENsTuEMadKSSJgfK2g",
   authDomain: "hackolatern.firebaseapp.com",
   databaseURL: "https://hackolatern.firebaseio.com",
